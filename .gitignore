@@ -1,0 +1,9 @@
+# third-party transcriptions used only for cross-checking (licence unclear) — keep local
+data/sources/*.json
+data/sources/*.csv
+!data/sources/agree.json
+!data/sources/selected25.json
+data/sources/list.txt
+tests/screens/
+__pycache__/
+data/sources/*.md

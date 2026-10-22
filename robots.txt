@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /build/
+Disallow: /tests/
+Disallow: /data/
+Sitemap: https://paubuilds.github.io/ccse-prep/sitemap.xml
