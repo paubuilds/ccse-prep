@@ -7,7 +7,7 @@
  * GOATCOUNTER_CODE: e.g. "ccseprep" for https://ccseprep.goatcounter.com (new GoatCounter account). null => off.
  * ============================================================================================ */
 window.CCSE_CONFIG = {
-  WAITLIST_ENDPOINT: null,   // TODO(Pau): e.g. "https://script.google.com/macros/s/XXXX/exec"
+  WAITLIST_ENDPOINT: "https://script.google.com/macros/s/AKfycbyUWtXzEAvb_j3hAjBdPMWtj4r6t-TgXuP098r_v3qW_FDqhu8uhshazp0vnXtJjpLm/exec",
   GOATCOUNTER_CODE: null,    // TODO(Pau): e.g. "ccseprep"
   FOUNDING_PRICE_EUR: 24
 };
